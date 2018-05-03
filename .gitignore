@@ -1,0 +1,6 @@
+__pycache__
+spark-warehouse
+metastore_db
+manuscript.jpg
+*.png
+*.svg
